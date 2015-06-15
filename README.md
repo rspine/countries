@@ -3,6 +3,8 @@
 [![Gem Version](https://badge.fury.io/rb/spine-countries.svg)](http://badge.fury.io/rb/spine-countries)
 [![Dependency Status](https://gemnasium.com/rspine/countries.svg)](https://gemnasium.com/rspine/countries)
 [![Code Climate](https://codeclimate.com/github/rspine/countries/badges/gpa.svg)](https://codeclimate.com/github/rspine/countries)
+[![security](https://hakiri.io/github/rspine/countries/master.svg)](https://hakiri.io/github/rspine/countries/master)
+[![Inline docs](http://inch-ci.org/github/rspine/countries.svg?branch=master)](http://inch-ci.org/github/rspine/countries)
 
 Provides ISO-3166 countries list.
 
